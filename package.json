@@ -22,8 +22,14 @@
     "// ------ NPM ----- //": "",
     "prepublishOnly": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node.js",
+    "vscode",
+    "npm",
+    "eslint",
+    "prettier"
+  ],
+  "author": "Anerco",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
