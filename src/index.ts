@@ -1,7 +1,7 @@
 import { add } from "./components/math";
 
 const test = (): void => {
-  console.log("test");
+  console.log("break the point");
 };
 
 test();
